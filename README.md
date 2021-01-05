@@ -1,2 +1,2 @@
 # typescript
-Typescript Foo
+Typescript Learning
